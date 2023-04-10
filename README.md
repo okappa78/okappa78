@@ -3,21 +3,21 @@ Data Analyst
 
 STACK
 
-Python (Pandas, Seaborn, Matplotlib)  
-SQL (MySQL, ClickHouse)  
-A/B testing and statistics  
-BI systems (Superset, Redash)  
-Git  
-Airflow  
-Excel  
+- Python (Pandas, Seaborn, Matplotlib)  
+- SQL (MySQL, ClickHouse)  
+- A/B testing and statistics  
+- BI systems (Superset, Redash)  
+- Git  
+- Airflow  
+- Excel  
 
 LEARNING
 
-Python (Statsmodels, NumPy, SciPy)
-SQL (PostgreSQL)
-A/B testing and statistics
-BI systems (Tableau, Looker data studio)
-Linux
+- Python (Statsmodels, NumPy, SciPy)  
+- SQL (PostgreSQL)  
+- A/B testing and statistics  
+- BI systems (Tableau, Looker data studio)  
+- Linux  
 
 CERTIFICATES
 
