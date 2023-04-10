@@ -1,7 +1,7 @@
 **OLEG KAPLIENKO**  
 Data Analyst
 
-**STACK
+**STACK**
 
 - Python (Pandas, Seaborn, Matplotlib)  
 - SQL (MySQL, ClickHouse)  
@@ -11,7 +11,7 @@ Data Analyst
 - Airflow  
 - Excel  
 
-**LEARNING
+**LEARNING**
 
 - Python (Statsmodels, NumPy, SciPy)  
 - SQL (PostgreSQL)  
@@ -19,11 +19,11 @@ Data Analyst
 - BI systems (Tableau, Looker data studio)  
 - Linux  
 
-**CERTIFICATES
+**CERTIFICATES**
 
 [Data Analyst Simulator](https://lab.karpov.courses/certificate/3f4910d2-f746-4339-9090-d13d2a7b0396/en/)
 
-**CONTACT
+**CONTACT**
 
 
 
