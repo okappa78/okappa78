@@ -3,7 +3,7 @@ Data Analyst
 
 STACK
 
-Python (Pandas, Seaborn, Matplotlib)
+Python (Pandas, Seaborn, Matplotlib)\n
 SQL (MySQL, ClickHouse)
 A/B testing and statistics
 BI systems (Superset, Redash)
