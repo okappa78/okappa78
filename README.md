@@ -1,5 +1,4 @@
-OLEG KAPLIENKO
-
+**OLEG KAPLIENKO**
 Data Analyst
 
 STACK
