@@ -17,7 +17,8 @@
 - SQL (PostgreSQL)  
 - A/B testing and statistics  
 - BI systems (Tableau, Looker data studio)  
-- Linux  
+- Linux
+- HTML CSS
 
 **CERTIFICATES**
 
