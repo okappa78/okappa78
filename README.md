@@ -1,5 +1,5 @@
 **OLEG KAPLIENKO**  
-Data Analyst
+
 
 **STACK**
 
