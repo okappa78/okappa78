@@ -22,9 +22,9 @@
 
 **CERTIFICATES**
 
-[Certificate Data Analyst LinkedIn.pdf](https://github.com/okappa78/okappa78/files/12804644/Certificate.Data.Analyst.LinkedIn.pdf)
+[Certificate Data Analyst LinkedIn](https://github.com/okappa78/okappa78/files/12804644/Certificate.Data.Analyst.LinkedIn.pdf)
 
-[Data Analyst Simulator](https://lab.karpov.courses/certificate/3f4910d2-f746-4339-9090-d13d2a7b0396/en/)
+[Certificate Data Analyst Simulator](https://lab.karpov.courses/certificate/3f4910d2-f746-4339-9090-d13d2a7b0396/en/)
 
 **CONTACT**
 
