@@ -6,7 +6,7 @@
 - Python (Pandas, Seaborn, Matplotlib)  
 - SQL (MySQL, ClickHouse)  
 - A/B testing and statistics  
-- BI systems (Superset, Redash)  
+- BI systems (Tableau, Power BI, Superset, Redash)  
 - Git  
 - Airflow  
 - Excel  
@@ -16,7 +16,7 @@
 - Python (Statsmodels, NumPy, SciPy)  
 - SQL (PostgreSQL)  
 - A/B testing and statistics  
-- BI systems (Tableau, Looker data studio)  
+- BI systems (Looker data studio)  
 - Linux
 - HTML CSS
 
