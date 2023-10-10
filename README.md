@@ -17,8 +17,8 @@
 - SQL (PostgreSQL)  
 - A/B testing and statistics  
 - BI systems (Looker data studio)  
-- Linux
-- HTML CSS
+- Data Science
+- Machine Learning
 
 **CERTIFICATES**
 
